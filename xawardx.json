@@ -19,7 +19,7 @@
   {
     "id": "bestcinematography-folder",
     "name": "Best Cinematography",
-    "category": "Award Winner 🏆",
+    "category": "Award Winners 🏆",
     "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
@@ -36,7 +36,7 @@
   {
     "id": "bestdirectors-folder",
     "name": "Best Directors",
-    "category": "Award Winner 🏆",
+    "category": "Award Winners 🏆",
     "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
@@ -87,7 +87,7 @@
   {
     "id": "saturnawards-folder",
     "name": "Saturn Awards",
-    "category": "Award Winner 🏆",
+    "category": "Award Winners 🏆",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
