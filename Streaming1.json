@@ -6,7 +6,7 @@
     "catalogIds": [],
     "displayMode": "Row",
     "layout": "Landscape",
-    "backgroundImageURL": "ercontent.com/SomeOrdinarySinner/fusion-folder/refs/heads/main/apple-tv__e7aqjl2rqzau_og.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/refs/heads/main/apple-tv__e7aqjl2rqzau_og.png",
     "iconName": "film",
     "showIcon": false,
     "nameDisplayMode": "Hidden",
