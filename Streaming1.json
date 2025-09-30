@@ -1,6 +1,6 @@
 [
   {
-    "id": "Apple TV+",
+    "id": "appletv-folder",
     "name": "Apple TV+",
     "category": "Streaming Services",
     "catalogIds": [],
@@ -17,7 +17,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "Crunchyroll",
+    "id": "crunchyroll-folder",
     "name": "Crunchyroll",
     "category": "Streaming Services",
     "catalogIds": [],
@@ -34,7 +34,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "Curiosity",
+    "id": "curiosity-folder",
     "name": "Curiosity",
     "category": "Streaming Services",
     "catalogIds": [],
@@ -51,7 +51,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "Discovery Plus",
+    "id": "discoveryplus-folder",
     "name": "Discovery Plus",
     "category": "Streaming Services",
     "catalogIds": [],
@@ -68,7 +68,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "Disney+",
+    "id": "disney-folder",
     "name": "Disney+",
     "category": "Streaming Services",
     "catalogIds": [],
@@ -85,7 +85,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "Hulu",
+    "id": "hulu-folder",
     "name": "Hulu",
     "category": "Streaming Services",
     "catalogIds": [],
@@ -102,7 +102,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "MagellanTV",
+    "id": "magellantv-folder",
     "name": "MagellanTV",
     "category": "Streaming Services",
     "catalogIds": [],
@@ -119,7 +119,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "HBO MAX",
+    "id": "hbomax-folder",
     "name": "HBO MAX",
     "category": "Streaming Services",
     "catalogIds": [],
@@ -136,7 +136,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "Mubi",
+    "id": "mubi-folder",
     "name": "Mubi",
     "category": "Streaming Services",
     "catalogIds": [],
@@ -153,7 +153,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "Netflix",
+    "id": "netflix-folder",
     "name": "Netflix",
     "category": "Streaming Services",
     "catalogIds": [],
@@ -170,7 +170,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "Paramount+",
+    "id": "paramount-folder",
     "name": "Paramount+",
     "category": "Streaming Services",
     "catalogIds": [],
@@ -187,7 +187,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "Peacock",
+    "id": "peacock-folder",
     "name": "Peacock",
     "category": "Streaming Services",
     "catalogIds": [],
@@ -204,7 +204,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "Prime Video",
+    "id": "primevideo-folder",
     "name": "Prime Video",
     "category": "Streaming Services",
     "catalogIds": [],
@@ -221,7 +221,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "Rakuten Viki",
+    "id": "rakutenviki-folder",
     "name": "Rakuten Viki",
     "category": "Streaming Services",
     "catalogIds": [],
@@ -238,7 +238,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "Starz",
+    "id": "starz-folder",
     "name": "Starz",
     "category": "Streaming Services",
     "catalogIds": [],
