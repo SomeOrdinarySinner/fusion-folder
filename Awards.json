@@ -2,7 +2,7 @@
   {
     "id": "bafta-folder",
     "name": "BAFTA",
-    "category": "Award Winners",
+    "category": "Award Winner",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
@@ -23,7 +23,7 @@
     "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
-    "backgroundImageURL": "githubusercontent.com/SomeOrdinarySinner/fusion-folder/refs/heads/main/oscar.JPG",
+    "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/refs/heads/main/oscar.JPG",
     "iconName": "false",
     "showIcon": false,
     "nameDisplayMode": "Hidden",
