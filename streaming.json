@@ -159,7 +159,7 @@
     "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
- "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/main/netflix.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/main/netflix.png",
     "iconName": null,
     "showIcon": false,
     "nameDisplayMode": "Hidden",
@@ -253,5 +253,5 @@
     "textWeight": "Bold",
     "textColor": "#FFFFFF",
     "backgroundColor": "#000000"
-}
-  ]
+  }
+]
