@@ -21,7 +21,7 @@
     "name": "Crunchyroll",
     "category": "Streaming Services",
     "catalogIds": [],
-    "displayMode": "Grid",
+    "displayMode": "Rows",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/main/Crunchyroll.AVIF",
     "iconName": "false",
