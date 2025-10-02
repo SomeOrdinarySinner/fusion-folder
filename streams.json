@@ -1,5 +1,5 @@
 [
-    {
+ {
         "id": "appletv-folder",
         "name": "Apple TV+",
         "category": "Streaming Services",
@@ -253,5 +253,5 @@
         "textWeight": "Bold",
         "textColor": "#FFFFFF",
         "backgroundColor": "#000000"
-    }
-]
+}
+ ]
