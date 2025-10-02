@@ -3,9 +3,7 @@
     "id": "appletv-folder",
     "name": "Apple TV+",
     "category": "Streaming Services",
-    "catalogIds": [
-      
-    ],
+    "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/refs/heads/main/Apple%20tv%2B.PNG",
@@ -22,9 +20,7 @@
     "id": "crunchyroll-folder",
     "name": "Crunchyroll",
     "category": "Streaming Services",
-    "catalogIds": [
-      
-    ],
+    "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/refs/heads/main/Crunchyroll.AVIF",
@@ -41,9 +37,7 @@
     "id": "curiosity-folder",
     "name": "Curiosity",
     "category": "Streaming Services",
-    "catalogIds": [
-      
-    ],
+    "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/main/Curiosity.JPG",
@@ -60,9 +54,7 @@
     "id": "discoveryplus-folder",
     "name": "Discovery Plus",
     "category": "Streaming Services",
-    "catalogIds": [
-      
-    ],
+    "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/main/Discovery.PNG",
@@ -79,9 +71,7 @@
     "id": "disney-folder",
     "name": "Disney+",
     "category": "Streaming Services",
-    "catalogIds": [
-      
-    ],
+    "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/main/Disney.JPG",
@@ -98,9 +88,7 @@
     "id": "hulu-folder",
     "name": "Hulu",
     "category": "Streaming Services",
-    "catalogIds": [
-      
-    ],
+    "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/main/Hulu.JPG",
@@ -117,9 +105,7 @@
     "id": "magellantv-folder",
     "name": "MagellanTV",
     "category": "Streaming Services",
-    "catalogIds": [
-      
-    ],
+    "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/main/Magellan.WEBP",
@@ -134,11 +120,9 @@
   },
   {
     "id": "hbomax-folder",
-    "name": "HBOM MAX",
+    "name": "HBO MAX",
     "category": "Streaming Services",
-    "catalogIds": [
-      
-    ],
+    "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/main/Max.JPG",
@@ -155,9 +139,7 @@
     "id": "mubi-folder",
     "name": "Mubi",
     "category": "Streaming Services",
-    "catalogIds": [
-      
-    ],
+    "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/main/Mubi.PNG",
@@ -174,9 +156,7 @@
     "id": "netflix-folder",
     "name": "Netflix",
     "category": "Streaming Services",
-    "catalogIds": [
-      
-    ],
+    "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/main/Netflix.PNG",
@@ -193,9 +173,7 @@
     "id": "paramount-folder",
     "name": "Paramount+",
     "category": "Streaming Services",
-    "catalogIds": [
-      
-    ],
+    "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/main/Paramount.PNG",
@@ -212,9 +190,7 @@
     "id": "peacock-folder",
     "name": "Peacock",
     "category": "Streaming Services",
-    "catalogIds": [
-      
-    ],
+    "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/main/Peacock.AVIF",
@@ -231,9 +207,7 @@
     "id": "primevideo-folder",
     "name": "Prime Video",
     "category": "Streaming Services",
-    "catalogIds": [
-      
-    ],
+    "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/main/Prime.WEBP",
@@ -250,9 +224,7 @@
     "id": "rakutenviki-folder",
     "name": "Rakuten Viki",
     "category": "Streaming Services",
-    "catalogIds": [
-      
-    ],
+    "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/main/Rakuten.WEBP",
@@ -269,9 +241,7 @@
     "id": "starz-folder",
     "name": "Starz",
     "category": "Streaming Services",
-    "catalogIds": [
-      
-    ],
+    "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/main/Starz.WEBP",
