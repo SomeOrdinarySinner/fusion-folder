@@ -89,7 +89,7 @@
     "name": "Crime",
     "category": "Genres",
     "catalogIds": [],
-    "displayMode": "Rowa",
+    "displayMode": "Rows",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/refs/heads/main/Crime.WEBP",
     "iconName": "false",
@@ -240,9 +240,9 @@
   {
     "id": "reality-folder",
     "name": "Reality",
-    "category": "Grid",
+    "category": "Genres",
     "catalogIds": [],
-    "displayMode": "Rows",
+    "displayMode": "Grid",
     "layout": "Landscape",
     "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/refs/heads/main/Reality.WEBP",
     "iconName": "false",
@@ -255,7 +255,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "Romance-folder",
+    "id": "romance-folder",
     "name": "Romance",
     "category": "Genres",
     "catalogIds": [],
@@ -289,7 +289,7 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "Space-folder",
+    "id": "space-folder",
     "name": "Space",
     "category": "Genres",
     "catalogIds": [],
@@ -306,8 +306,8 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "superhero&villians-folder",
-    "name": "Superhero & Villians",
+    "id": "superhero&villains-folder",
+    "name": "Superhero & Villains",
     "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -363,7 +363,7 @@
     "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Landscape",
-    "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/refs/heads/main/Westerns",
+    "backgroundImageURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion-folder/refs/heads/main/Westerns.WEBP",
     "iconName": "false",
     "showIcon": false,
     "nameDisplayMode": "Hidden",
