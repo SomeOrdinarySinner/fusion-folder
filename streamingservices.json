@@ -119,8 +119,8 @@
     "backgroundColor": "#000000"
   },
   {
-    "id": "hbomax-folder",
-    "name": "HBO MAX",
+    "id": "max-folder",
+    "name": "MAX",
     "category": "Streaming Services",
     "catalogIds": [],
     "displayMode": "Rows",
